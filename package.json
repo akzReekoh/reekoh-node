@@ -1,6 +1,6 @@
 {
   "name": "reekoh",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Reekoh Plugin SDKs and REST API Wrappers for Node.js.",
   "scripts": {
     "test": "gulp test"
